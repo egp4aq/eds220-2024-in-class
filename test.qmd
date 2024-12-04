@@ -1,0 +1,5 @@
+# This is a sample Quarto document 
+
+# I should delete this later
+
+These changes are no longer being tracked
